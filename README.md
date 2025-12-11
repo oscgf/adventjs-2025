@@ -12,7 +12,7 @@ Este repositorio contiene soluciones en **TypeScript** para los retos de https:/
 | Día | Estado      | Puntuación  |
 |-----|-------------|-------------|
 | 01  | ✅ Resuelto  | 5⭐ + 3⭐  |
-| 02  | ✅ Resuelto  | 5⭐        |
+| 02  | ✅ Resuelto  | 5⭐ + 1⭐  |
 | 03  | ✅ Resuelto  | 5⭐ + 3⭐  |
 | 04  | ✅ Resuelto  | 5⭐ + 3⭐  |
 | 05  | ✅ Resuelto  | 5⭐ + 3⭐  |
@@ -20,8 +20,9 @@ Este repositorio contiene soluciones en **TypeScript** para los retos de https:/
 | 07  | ✅ Resuelto  | 5⭐ + 2⭐  |
 | 08  | ✅ Resuelto  | 5⭐ + 3⭐  |
 | 09  | ✅ Resuelto  | 4⭐ + 3⭐  |
+| 10  | ✅ Resuelto  | 5⭐ + 3⭐  |
 
 | Concepto     | Total    |
 |--------------|----------|
-| Ejercicios   | 4 / 24   |
-| Puntuación   | 26 / 192 |
+| Ejercicios   | 10 / 25  |
+| Puntuación   | 75 / 200 |
