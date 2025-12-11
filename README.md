@@ -21,8 +21,9 @@ Este repositorio contiene soluciones en **TypeScript** para los retos de https:/
 | 08  | ✅ Resuelto  | 5⭐ + 3⭐  |
 | 09  | ✅ Resuelto  | 4⭐ + 3⭐  |
 | 10  | ✅ Resuelto  | 5⭐ + 3⭐  |
+| 11  | ✅ Resuelto  | 5⭐ + 3⭐  |
 
 | Concepto     | Total    |
 |--------------|----------|
-| Ejercicios   | 10 / 25  |
-| Puntuación   | 75 / 200 |
+| Ejercicios   | 11 / 25  |
+| Puntuación   | 83 / 200 |
