@@ -9,21 +9,26 @@ Este repositorio contiene soluciones en **TypeScript** para los retos de https:/
 
 ## Resultados
 
-| Día | Estado      | Puntuación  |
-|-----|-------------|-------------|
-| 01  | ✅ Resuelto  | 5⭐ + 3⭐  |
-| 02  | ✅ Resuelto  | 5⭐ + 1⭐  |
-| 03  | ✅ Resuelto  | 5⭐ + 3⭐  |
-| 04  | ✅ Resuelto  | 5⭐ + 3⭐  |
-| 05  | ✅ Resuelto  | 5⭐ + 3⭐  |
-| 06  | ✅ Resuelto  | 5⭐ + 2⭐  |
-| 07  | ✅ Resuelto  | 5⭐ + 2⭐  |
-| 08  | ✅ Resuelto  | 5⭐ + 3⭐  |
-| 09  | ✅ Resuelto  | 4⭐ + 3⭐  |
-| 10  | ✅ Resuelto  | 5⭐ + 3⭐  |
-| 11  | ✅ Resuelto  | 5⭐ + 3⭐  |
+| Día | Estado      | Puntuación  | Dificultad |
+|-----|-------------|-------------|------------|
+| 01  | ✅ Resuelto  | 5⭐ + 3⭐  | Fácil      |
+| 02  | ✅ Resuelto  | 5⭐ + 1⭐  | Fácil      |
+| 03  | ✅ Resuelto  | 5⭐ + 3⭐  | Fácil      |
+| 04  | ✅ Resuelto  | 5⭐ + 3⭐  | Medio      |
+| 05  | ✅ Resuelto  | 5⭐ + 3⭐  | Fácil      |
+| 06  | ✅ Resuelto  | 5⭐ + 2⭐  | Fácil      |
+| 07  | ✅ Resuelto  | 5⭐ + 2⭐  | Medio      |
+| 08  | ✅ Resuelto  | 5⭐ + 3⭐  | Fácil      |
+| 09  | ✅ Resuelto  | 4⭐ + 3⭐  | Difícil    |
+| 10  | ✅ Resuelto  | 5⭐ + 3⭐  | Fácil      |
+| 11  | ✅ Resuelto  | 5⭐ + 3⭐  | Fácil      |
+| 12  | ✅ Resuelto  | 5⭐ + 2⭐  | Medio      |
+| 13  | ✅ Resuelto  | 5⭐ + 3⭐  | Medio      |
+| 14  | ✅ Resuelto  | 5⭐ + 3⭐  | Fácil      |
+| 15  | ✅ Resuelto  | 5⭐ + 3⭐  | Medio      |
+| 16  | ✅ Resuelto  | 5⭐ + 3⭐  | Fácil      |
 
 | Concepto     | Total    |
 |--------------|----------|
-| Ejercicios   | 11 / 25  |
-| Puntuación   | 83 / 200 |
+| Ejercicios   | 16 / 25  |
+| Puntuación   | 122 / 200 |
