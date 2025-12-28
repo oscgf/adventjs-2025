@@ -34,9 +34,10 @@ Este repositorio contiene soluciones en **TypeScript** para los retos de https:/
 | 21  | ✅ Resuelto  | 5⭐ + 3⭐  | Medio      |
 | 22  | ✅ Resuelto  | 4⭐ + 3⭐  | Difícil    |
 | 23  | ✅ Resuelto  | 5⭐ + 2⭐  | Medio      |
-| 24  | ✅ Resuelto  | 5⭐ + 3⭐  | Medio    |
+| 24  | ✅ Resuelto  | 5⭐ + 3⭐  | Medio      |
+| 25  | ✅ Resuelto  | 3⭐ + 2⭐  | Medio      |
 
 | Concepto     | Total    |
 |--------------|----------|
-| Ejercicios   | 24 / 25  |
-| Puntuación   | 184 / 200 |
+| Ejercicios   | 25 / 25  |
+| Puntuación   | 189 / 200|
